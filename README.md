@@ -1,4 +1,4 @@
-# Data Pipeline Setup For Sensor Fault  Detection Project Using Confluent kafka
+# Data Pipeline Setup For Sensor Fault Detection Project Using Confluent Platform
 
 Step 1 : Confluent Setup
 
