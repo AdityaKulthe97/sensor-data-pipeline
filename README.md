@@ -1,4 +1,4 @@
-# Data Pipeline Setup For Sensor Fault  Detection Project Using Confluent-kafka
+# Data Pipeline Setup For Sensor Fault  Detection Project Using Confluent kafka
 
 This repo help us to know how to publish and consume data to and from kafka confluent in json format.
 
