@@ -2,22 +2,23 @@
 
 Step 1 : Confluent Setup
 '''
- (https://github.com/AdityaKulthe97/confluent-tutorial/blob/main/README.md)
+ [https://github.com/AdityaKulthe97/confluent-tutorial/blob/main/README.md]
+ 
 '''
 
 
-Step 1: Create a conda environment
+Step 2: Create a conda environment
 ```
 conda --version
 ```
 
-Step 2: Create  a conda environment
+Step 3: Create  a conda environment
 ```
 conda create -p venv python==3.8 -y
 ```
 
 
-Step 3: Install requierments.txt
+Step 4: Install requierments.txt
 ```
 pip install -r requirements.txt
 ```
