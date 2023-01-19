@@ -12,8 +12,8 @@ Step 2: Create  a conda environment
 conda create -p venv python==3.8 -y
 ```
 
-```
-Step 3:
+
+Step 3: Install requierments.txt
 ```
 pip install -r requirements.txt
 ```
