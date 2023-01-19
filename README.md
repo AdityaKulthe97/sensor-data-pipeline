@@ -7,16 +7,15 @@ Step 1 : Confluent Setup
 
 
 
-Step 2: Create a conda environment
-```
-conda --version
-```
-
-Step 3: Create  a conda environment
+Step 2 : Create a conda environment
 ```
 conda create -p venv python==3.8 -y
 ```
 
+Step 3 : Activate conda environment
+```
+conda activate venv
+```
 
 Step 4: Install requierments.txt
 ```
